@@ -1,5 +1,5 @@
-# payer
-# payhookup
+# Payer
+# Payhookup
 
 payer, the easiest way to send and receive crypto tokens.
 
@@ -35,7 +35,3 @@ payer trying to represent the idea of 'Digital Cash' better than any other crypt
 
 ### Working Demo 
 ![clink_demo](https://github.com/punithbm/eth-micropay-superhack/assets/13044958/032e630e-8dd7-4146-a1b9-6bbacc81f482)
-
-### Complete Guide
-Find the below step by step guid on how to do it
-![payer Safe Infra2](https://github.com/punithbm/eth-micropay-superhack/assets/13044958/760038db-765b-4a56-a45b-427184bd1447)
